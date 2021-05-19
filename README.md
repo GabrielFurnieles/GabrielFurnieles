@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Gabriel Furnieles
 
 <!--
 **GabrielFurnieles/GabrielFurnieles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a student of matemathical engineering
+I'm a student of Matemathical Engineering with knowledge of programming in C, MatLab, HTML and CSS, and some Python. I've been programming for about 2 years and I am also very interested in the mathematical world and its application to real life.
 
-- Currently learning maths and programming :books:
+- 📚 Currently learning maths and programming.
+- 🙋‍♂️ Interested in Big Data, AI, Machine Learning and business.
+- 🎯 Objectives: To learn as much as possible about maths and coding to be able to find solutions for people and develop the new tools and technologies of the future. 
+- 🌱 Characteristics: Responsible and methodical, persistent, creative, friendly and social and adaptable.
+- ⚡ Other habilities: In my free time I also like to graphic design and I read a lot about business and entrepeneurship.
+- Hobbies: ⚽ 🎨 ✈️ 📖 🏞️
+ 
