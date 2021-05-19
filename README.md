@@ -20,6 +20,6 @@ I'm a student of Matemathical Engineering with knowledge of programming in C, Ma
 - 🙋‍♂️ Interested in Big Data, AI, Machine Learning and business.
 - 🎯 Objectives: To learn as much as possible about maths and coding to be able to find solutions for people and develop the new tools and technologies of the future. 
 - 🌱 Characteristics: Responsible and methodical, persistent, creative, friendly and social and adaptable.
-- ⚡ Other habilities: In my free time I also like to graphic design and I read a lot about business and entrepeneurship.
+- ⚡ Other habilities: In my free time I also like to graphic design and editing videos and photos. I also like to read a lot about business and entrepeneurship.
 - Hobbies: ⚽ 🎨 ✈️ 📖 🏞️
  
