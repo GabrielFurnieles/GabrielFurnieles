@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm a student of matemathical engineering
 
-- Currently learning maths and programming
+- Currently learning maths and programming :books:
