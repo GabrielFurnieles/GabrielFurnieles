@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a student of Matemathical Engineering with knowledge of programming in C, MatLab, HTML and CSS, and some Python. I've been programming for about 2 years and I am also very interested in the mathematical world and its application to real life.
+I'm a student of Matemathical Engineering with knowledge of programming in C, MatLab, HTML & CSS, and some Python. I've been programming for about 2 years and I am also very interested in the mathematical world and its application to real life.
 
 - 📚 Currently learning maths and programming.
 - 🙋‍♂️ Interested in Big Data, AI, Machine Learning and business.
