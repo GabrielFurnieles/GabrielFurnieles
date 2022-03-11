@@ -13,3 +13,4 @@ I'm a student of Matemathical Engineering with knowledge of programming in C, Ma
     - Adaptable
 - ⚡ **Other habilities:** In my free time I like to graphic design and editing videos and photos. I also like to read a lot about business and entrepeneurship.
 - **Hobbies:** ⚽ 🎨 ✈️ 📖 🏞️
+<p> 😄 H </p>
