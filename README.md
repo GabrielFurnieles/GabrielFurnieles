@@ -1,6 +1,6 @@
 ### Hi there👋, my name is Gabriel Furnieles
 
-I'm a student of Matemathical Engineering with knowledge of programming in C, MatLab, HTML & CSS, Python, R and SQL. I've been programming for about 2 years and I am also very interested in the mathematical world and its application to real life.
+I'm a student of Matemathical Engineering with knowledge of programming in C, MatLab, HTML & CSS, Python, R and SQL. I've been programming for about 3 years and I am also very interested in the mathematical world and its application to real life.
 
 - 📚 Currently learning maths and programming.
 - 🙋‍♂️ Interested in Big Data, AI, Machine Learning and business.
