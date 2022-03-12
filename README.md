@@ -12,6 +12,6 @@
 <li>Adaptable</li>
 </ul>
 </li>
-<li>⚡ ⚡<strong>Other habilities:</strong> In my free time I like to graphic design and editing videos and photos. I also like to read a lot about business and entrepeneurship.</li>
-<li><strong>Hobbies:</strong> ⚽ 🎨 ✈️ 📖 🏞️</li>
+<li>&#x26A1<strong>Other habilities:</strong> In my free time I like to graphic design and editing videos and photos. I also like to read a lot about business and entrepeneurship.</li>
+<li><strong>Hobbies:</strong> &#x26BD &#x1F3A8 &#x1F6EB &#x1F4D6 &#127966</li>
 </ul>
