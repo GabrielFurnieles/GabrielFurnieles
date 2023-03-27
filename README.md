@@ -1,4 +1,5 @@
-<p>I'm a student of Matemathical Engineering with knowledge of programming in C, MatLab, HTML &; CSS, Python, R and SQL. I've been programming for about 3 years and I am also very interested in the mathematical world and its application to real life.</p>
+<p>I'm a student of Matemathical Engineering with knowledge of programming in Python, MatLab, R, C and SQL queries. 
+  I've been programming for about 5 years and I enjoy mathematics and its application to real life.</p>
 <ul>
 <li>&#128218 Currently learning maths and programming.</li>
 <li>&#128587 Interested in Big Data, AI, Machine Learning and business.</li>
