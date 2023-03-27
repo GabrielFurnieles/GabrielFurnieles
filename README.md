@@ -1,5 +1,8 @@
 <h1> Hi, I'm Gabriel! </h1>
 
+[![Linkedin](https://img.shields.io/badge/Linkedin-0075B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=303030)](https://www.linkedin.com/in/gabrielfurnielesgarcia/)
+[![Medium](https://img.shields.io/badge/Medium-3EB05B?style=flat-square&logo=medium&logoColor=white&labelColor=303030)](https://www.linkedin.com/in/gabrielfurnielesgarcia/)
+
 <p>I'm a student of Matemathical Engineering with knowledge of programming in Python, MatLab, R, C and SQL queries. 
   I've been programming for about 5 years and I enjoy mathematics and its application to real life.</p>
 <ul>
